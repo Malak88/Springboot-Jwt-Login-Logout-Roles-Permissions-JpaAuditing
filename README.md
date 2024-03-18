@@ -24,7 +24,7 @@ To get started with this project, you will need to have the following installed 
 
   To build and run the project, follow these steps:
 
-* Clone the repository: `git clone [https://github.com/Malak88/Springboot-Jwt-Login-Logout-Roles-Permissions-JpaAuditing.git`
+* Clone the repository: `git clone https://github.com/Malak88/Springboot-Jwt-Login-Logout-Roles-Permissions-JpaAuditing.git`
 * Navigate to the project directory: cd Springboot-Jwt-Login-Logout-Roles-Permissions-JpaAuditing
 * Add database "jsecurity_test" to postgres and change Database credentials in application.yml
 * Build the project: mvn clean install
